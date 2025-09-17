@@ -25,7 +25,7 @@ A demo e-commerce website built with **PHP** and **XAMPP**, showcasing different
 
 4. Open your browser and go to:
 
-http://localhost/shop-demo
+http://localhost:8080/shop-demo
 
 ## 📂 Project Structure
 shop-demo/
