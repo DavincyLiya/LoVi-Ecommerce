@@ -27,7 +27,7 @@ A demo e-commerce website built with **PHP** and **XAMPP**, showcasing different
 
 http://localhost/shop-demo
 
-📂 Project Structure
+## 📂 Project Structure
 shop-demo/
 │-- index.php
 │-- login.php
@@ -36,8 +36,32 @@ shop-demo/
 │-- fashion.php
 │-- beauty.php
 │-- furniture.php
-│-- assets/
-│   └── images/
+│-- images/
+│ ├── B-QL.jpeg
+│ ├── beauty.png
+│ ├── belt.jpg
+│ ├── bookshelf.webp
+│ ├── Coffetable.jpg
+│ ├── cottonshirt.webp
+│ ├── denimjacket.webp
+│ ├── e-QL.jpeg
+│ ├── earpods.jpg
+│ ├── electronics (2).png
+│ ├── F-QL.jpeg
+│ ├── fashion.png
+│ ├── Fur-QL.jpeg
+│ ├── furniture.png
+│ ├── home.avif
+│ ├── laptop.jpg
+│ ├── logo.png
+│ ├── lovi-1 (2).png
+│ ├── lovi-1 (4).png
+│ ├── lovi-1.png
+│ ├── matte-lip.webp
+│ ├── maybelline.webp
+│ ├── officechair.webp
+│ ├── sam.png
+│ └── serum.webp
 │-- config.php
 │-- README.md
 
